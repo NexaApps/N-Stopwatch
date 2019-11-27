@@ -10,11 +10,11 @@ body {
     margin: 50px auto;
     font-family: sans-serif;
     color: skyblue;
-    margin-top: 20vh;
+    margin-top: 10vh;
 }
 
 .time {
-    font-size: 500%;
+    font-size: 450%;
     width: 100%;
     margin: auto;
     text-align: right;
