@@ -25,6 +25,6 @@
     "test": "electron bin/",
     "build": "babel src -d bin --copy-files",
     "watch": "babel src -w -d bin --copy-files",
-    "publish": "electron-packager ./ n-stopwatch --icon=icon/stopwatch.icns --overwrite"
+    "building": "electron-packager ./ n-stopwatch --icon=./icon/stopwatch.icns --overwrite"
   }
 }
